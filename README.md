@@ -84,3 +84,19 @@ I specialize in designing and engineering high-throughput, low-latency backend s
 ---
 
 ### 🚀 Featured Architectural Domains
+
+
+---
+
+### 📊 Activity & Engineering Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliicolak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliicolak&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Engineered with precision. Available for scalable architecture design & high-performance backend development.</sub>
+</div>
